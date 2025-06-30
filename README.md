@@ -14,8 +14,6 @@ Advanced AI Processing: Uses DeepSeek AI models for intelligent data structuring
 
 Structured Output: Convert documents to JSON, CSV, or formatted tables (output format)
 
-Entity Extraction: Identify people, organizations, locations, dates, and more
-
 Document Classification: Automatically categorize document types (invoices, reports, etc.)
 
 Performance Monitoring: Track processing times and system resource usage
@@ -28,7 +26,7 @@ The platform follows a modular architecture:
 
 1- Data Extraction Layer: Handles PDFs, images, and text files
 
-2- AI Processing Layer: Structures data using DeepSeek models
+2- AI Processing Layer: Structures data using DeepSeek models 
 
 3-Data Transformation Layer: Formats output as JSON, CSV, or tables
 
@@ -47,11 +45,18 @@ The platform follows a modular architecture:
 
 ![Capture1](https://github.com/user-attachments/assets/1d6b0020-7461-49b1-8c34-e791fc67cf8d)
 
+
 ![Capture2](https://github.com/user-attachments/assets/f92c11b7-d328-45a3-8c68-db667346b8ec)
+
 
 ![Capture3](https://github.com/user-attachments/assets/db628d75-9ec7-4dbe-aa80-2dec0e505d22)
 
+**INPUT:**
+
 ![Capture5](https://github.com/user-attachments/assets/e072b69a-d58c-40a3-ba54-754dc8750fc6)
 
+**OUTPUT:**
+
 ![Capture4](https://github.com/user-attachments/assets/98067ab5-09ae-42fd-93e0-336bb627ce0e)
+
 
