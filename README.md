@@ -37,17 +37,21 @@ The platform follows a modular architecture:
 **How to run the project?**
 
 1- Clone the repository 
+
 2- Pip install -r requirements.txt
+
 3- Put your OPENROUTER_API_KEY=your_api_key_here
+
 4- Write in the terminal streamlit run app.py
 
 
-![Capture1](https://github.com/user-attachments/assets/88071006-5377-45d4-8e61-5d40abeabbba)
+![Capture1](https://github.com/user-attachments/assets/1d6b0020-7461-49b1-8c34-e791fc67cf8d)
 
-![Capture2](https://github.com/user-attachments/assets/b8aab65f-1d60-4361-81a3-e70e25f934d1)
+![Capture2](https://github.com/user-attachments/assets/f92c11b7-d328-45a3-8c68-db667346b8ec)
 
-![Capture3](https://github.com/user-attachments/assets/46a5ab22-87ae-4ea1-8731-640402397091)
+![Capture3](https://github.com/user-attachments/assets/db628d75-9ec7-4dbe-aa80-2dec0e505d22)
 
 ![Capture5](https://github.com/user-attachments/assets/e072b69a-d58c-40a3-ba54-754dc8750fc6)
 
 ![Capture4](https://github.com/user-attachments/assets/98067ab5-09ae-42fd-93e0-336bb627ce0e)
+
